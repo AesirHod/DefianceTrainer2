@@ -1,12 +1,2 @@
-﻿  AMF_Win.cpp
-AMF_Win.cpp(74): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
-  DefiTrain2.cpp
-  process.cpp
-process.cpp(138): warning C4477: 'sscanf' : format string '%02x' requires an argument of type 'unsigned int *', but variadic argument 1 has type 'BYTE *'
-  process.cpp(138): note: consider using '%hhx' in the format string
-process.cpp(138): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
-  Generating Code...
-  DefianceTrainer2.vcxproj -> C:\Users\Andrew\Documents\Visual Studio 2015\Projects\DefianceTrainer2\Release\DefianceTrainer2.exe
-  DefianceTrainer2.vcxproj -> Release\DefianceTrainer2.pdb (Full PDB)
+﻿  DefiTrain2.cpp
+  DefianceTrainer2.vcxproj -> C:\Users\Andrew\source\repos\DefianceTrainer2\Release\DefianceTrainer2.exe

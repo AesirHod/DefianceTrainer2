@@ -163,7 +163,7 @@ void DefiTrainer::WriteMemory(WORD keyPressed) {
 			CameraMode(camFree);
 			break;
 		default:
-			CameraMode(cameraMode);
+			//CameraMode(cameraMode);
 			break;
 	}
 	return;

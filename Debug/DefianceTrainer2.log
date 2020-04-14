@@ -1,0 +1,7 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  process.cpp
+  DefiTrain2.cpp
+  AMF_Win.cpp
+  Generating Code...
+AMF_Win.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  DefianceTrainer2.vcxproj -> C:\Users\Andrew\source\repos\DefianceTrainer2\Debug\DefianceTrainer2.exe
